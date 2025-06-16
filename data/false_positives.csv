@@ -1,0 +1,1 @@
+product_type1,product_type2,time,price,is_original,time_diff,hour,day_of_week,day_of_month,month,is_weekend,is_month_start,is_month_end,quarter,is_workday,is_all_day_missing,hour_sin,hour_cos,day_sin,day_cos,hour_ma_3,hour_std_3,hour_ma_7,hour_std_7,hour_ma_deviation,is_cn_holiday,is_us_holiday,is_jp_holiday,product_type1_encoded,product_type2_encoded,is_anomaly
